@@ -19,6 +19,8 @@ This project detects whether a given text is toxic or non-toxic using Machine Le
 - Scikit-learn
 - Streamlit
 - NLP (NLTK)
+  
+🚀 **Live App:** https://your-app-name.streamlit.app
 
 ## ▶️ Run Locally
 
